@@ -4,7 +4,7 @@
 - 😁 Currently I'm working on my portfolio and programs to optimize my work
 - 💞️ I’m looking to collaborate on new projects, thanks to which I can learn something new
 - 📫 How to reach me: just write to me -> szylabe@gmail.com
-- 😎 Check out my web development portfolio: (not finished yet😅 be patient)
+- 😎 Check out my web development portfolio: (not finished yet😅 be patient: https://smx-portfolio.web.app/)
 
 <!---
 SzymixoSzymixo/SzymixoSzymixo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
