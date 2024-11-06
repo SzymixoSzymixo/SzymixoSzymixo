@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SMX
-- 👀 I’m interested in web development (fullstack), mobile & desktop apps, cybersecurity and new technologies
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in fullstack web dev, mobile/desktop apps, cybersecurity, embedded systems and new technologies
+- 🌱 I’m currently learning Rust
 - 😁 Currently I'm working on partition encrypt multi-platform program and some security apps for my servers
 - 💞️ I’m looking to collaborate on new projects, thanks to which I can learn something new
 - 📫 How to reach me: just write -> szylabe@gmail.com
